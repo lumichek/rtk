@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "вызвать сантехника",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "перевезти вещи",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "упаковать подарки",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "купить мармелад",
+      "completed": false
+    }
+  ]
+}
